@@ -1,0 +1,2 @@
+name,size,parent,type,children
+home_dir,0,.,directory,"{'name': 'chill ditictory', 'size': 0, 'parent': 'home_dir', 'type': 'directory', 'children': [{'name': 'text.txt', 'size': 57, 'parent': 'home_dir\\chill ditictory', 'type': 'file'}, {'name': 'two chlind dirictory', 'size': 0, 'parent': 'home_dir\\chill ditictory', 'type': 'directory', 'children': [{'name': 'text2.txt', 'size': 26, 'parent': 'home_dir\\chill ditictory\\two chlind dirictory', 'type': 'file'}]}]}"
